@@ -1,4 +1,4 @@
-📦 Inventory Management System - SQA Testing 🛠️
+📦 Inventory Management System - SQA Testing 🛠️<br>
 Welcome to the repository for the Inventory Management System (IMS) Software Quality Assurance (SQA) Testing. This project focuses on ensuring the reliability, efficiency, and robustness of the IMS through comprehensive testing methodologies.
 
 📋 Project Overview
