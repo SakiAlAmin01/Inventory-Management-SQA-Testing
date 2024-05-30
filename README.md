@@ -8,7 +8,8 @@ The Inventory Management System is designed to streamline inventory tracking, ma
 Unit Tests: Validate individual components and functions.
 Integration Tests: Ensure different modules work together seamlessly.
 System Tests: Verify the system as a whole.<br>
+
 📊 Testing Summary<br>
-Total Test Cases: 181
+Total Test Cases: 181<br>
 Failures Identified: 20<br>
 By identifying and addressing these failures, we strive to improve the overall quality and performance of the Inventory Management System.
